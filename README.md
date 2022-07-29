@@ -1,4 +1,3 @@
-# VCB-Projects
 A collection of logic circuits I've built in VCB. There are not many right now but I plan to make a lot more :D. I am trying to make useful modules for people to use so feel free to use them in your projects!
 
 # RGS-C00
