@@ -5,7 +5,7 @@ An 8-bit computer with very limited functionality, but very compact. The demo pr
   
 Features:  
   -6 general purpose registers  
-  -an ALU that can add/subtract/N/V/C/P  
+  -an ALU that can add/subtract/N/Z/C/P  
   -1 input port  
   -1 output port  
   -256 lines of 8-bit program memory  
