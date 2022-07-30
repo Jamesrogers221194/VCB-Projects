@@ -1,7 +1,7 @@
 A collection of logic circuits I've built in VCB. There are not many right now but I plan to make a lot more :D. I am trying to make useful modules for people to use so feel free to use them in your projects!
 
 # RGS-C00
-An 8-bit computer with very limited functionality, but very compact. The demo project in the repo has the CPU host a game of Simon says. Give it a go! :)  
+An 8-bit computer with very limited functionality, but very compact. The demo project in the repo has the CPU host a game of Simon says. Give it a go! :) (for the demo, make sure to run it at about 600TPS)  
   
 Features:  
   -6 general purpose registers  
